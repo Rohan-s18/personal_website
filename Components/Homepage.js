@@ -8,7 +8,7 @@ import Link from 'next/link';
 export default function Homepage(){
 
     return(
-        <div className={styles.para}>
+        <div className={styles.main}>
             <p>
                 Hello! My name is Rohan Singh and I am a Sophomore Computer Science Major at Case Western Reserve University with a secondary major in Physics. 
                 This is my personal website and I'm not really sure what I'll do with it lol. Mayhaps, a blog?
@@ -16,7 +16,7 @@ export default function Homepage(){
                 </br>
                 <br></br>
                 If you don't already know me, well then, you're missing out on a lot in your life. I'm a huge animated movie fan, so if you ever
-                want to watch a pixar movie with someone, you know who to contact ;)
+                want to watch a pixar movie with someone, you know who to contact.
 
                 <br></br>
                 <br></br>
