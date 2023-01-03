@@ -9,12 +9,12 @@ export default function Home(){
         <div className={styles.container}>
 
           <Head>
-            <title>Rohan and Alessandra's Repositories</title>
+            <title>Rohan's Github Repositories</title>
           </Head>
 
           <main className={styles.main}>
 
-            <h1 className={styles.title}>Check out Rohan and Alessandra's Repositories</h1>
+            <h1 className={styles.title}>Check out my Github Repositories</h1>
           
             <RepositoryList />
         
