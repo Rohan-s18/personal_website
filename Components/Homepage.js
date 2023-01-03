@@ -23,12 +23,7 @@ export default function Homepage(){
 
             </p>
 
-            <div className={styles.card}>
-                    <Link href="/Repos">
-                        <h2>My Repository Listing</h2>
-                        If you want to check out my code, then you can find a guide and link to my github repositories here.
-                    </Link> 
-            </div>
+
 
 
         </div>
