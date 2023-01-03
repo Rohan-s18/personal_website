@@ -8,7 +8,7 @@ import Link from 'next/link';
 export default function Homepage(){
 
     return(
-        <div className={styles.main}>
+        <div className={styles.para}>
             <p>
                 Hello! My name is Rohan Singh and I am a Sophomore Computer Science Major at Case Western Reserve University with a secondary major in Physics. 
                 This is my personal website and I'm not really sure what I'll do with it lol. Mayhaps, a blog?
@@ -21,15 +21,16 @@ export default function Homepage(){
                 <br></br>
                 <br></br>
 
-                <div className={styles.card}>
-                    <Link href="\Repos">
+            </p>
+
+            <div className={styles.card}>
+                    <Link href="/Repos">
                         <h2>My Repository Listing</h2>
                         If you want to check out my code, then you can find a guide and link to my github repositories here.
                     </Link> 
-                </div>
+            </div>
 
 
-            </p>
         </div>
     )
 
