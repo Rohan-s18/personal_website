@@ -5,22 +5,7 @@
   align-items: center;
   padding: 6rem;
   min-height: 100vh;
-  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
-
-
-.para {
-  display: flex;
-  flex-direction: column;
-  justify-content: flex-start;
-  align-items: left;
-  text-align: left;
-  padding: 6rem;
-  min-height: 100vh;
-  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-}
-
-
 
 .description {
   display: inherit;
