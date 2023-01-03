@@ -3,7 +3,7 @@ import Image from 'next/image'
 import styles from '../styles/Home.module.css'
 import Link from 'next/link';
 
-//This is the react component for the public of repositories that Alessandra and Rohan have
+//This is the react component to list the public repositories that I have
 
 export default function RepositoryList(){
     return(

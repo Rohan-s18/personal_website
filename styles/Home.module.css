@@ -8,6 +8,18 @@
   font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
+.para {
+  display: flex;
+  flex-direction: column;
+  justify-content:left;
+  align-items:flex-end;
+  text-align: left;
+  padding: 6rem;
+  min-height: 100vh;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size:larger ;
+}
+
 .description {
   display: inherit;
   justify-content: inherit;
