@@ -8,12 +8,19 @@ export default function HomePage(){
     return(
         <div className={styles.jocs_home}>
 
-            <p>
-                This is the homepage for my website. I'm not 100% sure about what to do with this website, a blog mayhaps? or a portfolio? 
-                I think these questions can be settled for a later time, because I have to work on the back-end for this website whose domain name I impulsively bought because YOLO.
-                <br></br><br></br>
-            </p>
-            
+            <h2>
+                About Me
+            </h2>
+            <p>I am an Undergraduate Computer Science and Physics major at Case Western Reserve University. I am currently a sophomore in college and I plan on attending Graduate School after this. I am interested in Quantum Computing, Artificial Intelligence, Machine Learning, Operating System (Linux Superfan) and Low-level programming. If you're interested in working on a project with me, please feel free to reach out.</p>
+
+            <br></br><br></br><br></br><br></br><br></br><br></br>
+
+           
+
+
+            <h2>
+                Some other Links
+            </h2>
             <div className={styles.grid}>
 
                 <Link href='/repopage'>

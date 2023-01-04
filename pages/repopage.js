@@ -17,6 +17,10 @@ export default function RepoPage(){
             <h1 className={styles.title}>Check out my Github Repositories</h1>
           
             <RepositoryList />
+
+            <br></br>
+            <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Rohan-s18&show_icons=true&theme=great-gatsby" alt="tomondre" /> </p>
+            <br></br>
         
           </main>
 
