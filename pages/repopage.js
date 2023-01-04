@@ -2,9 +2,8 @@ import Head from 'next/head'
 import Image from 'next/image'
 import styles from '../styles/Home.module.css'
 import RepositoryList from '../Components/RepositoryList'
-import HomePage from '../Components/Homepage'
 
-export default function Home(){
+export default function RepoPage(){
     
     return(
         <div className={styles.container}>
@@ -17,7 +16,7 @@ export default function Home(){
 
             <h1 className={styles.title}>Check out my Github Repositories</h1>
           
-            <HomePage />
+            <RepositoryList />
         
           </main>
 
