@@ -10,12 +10,12 @@ export default function Home(){
         <div className={styles.container}>
 
           <Head>
-            <title>Rohan's Github Repositories</title>
+            <title>Rohan Singh</title>
           </Head>
 
           <main className={styles.main}>
 
-            <h1 className={styles.title}>Check out my Github Repositories</h1>
+            <h1 className={styles.title}>Rohan Singh: Person formerly known as JocularGlint54</h1>
           
             <HomePage />
         
