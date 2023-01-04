@@ -3,7 +3,8 @@ import Image from 'next/image'
 import styles from '../styles/Home.module.css'
 import RepositoryList from '../Components/RepositoryList'
 import HomePage from '../Components/HomePage'
-
+import Navbar from '../Components/Navbar'
+import Footer from '../Components/Footer'
 
 export default function Home(){
     
@@ -16,9 +17,13 @@ export default function Home(){
 
           <main className={styles.main}>
 
+            <Navbar />
+
             <h1 className={styles.title}>Rohan Singh: Person formerly known as JocularGlint54</h1>
           
             <HomePage />
+
+            <Footer />
         
           </main>
 
