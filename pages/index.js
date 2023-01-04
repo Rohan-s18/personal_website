@@ -2,6 +2,9 @@ import Head from 'next/head'
 import Image from 'next/image'
 import styles from '../styles/Home.module.css'
 import RepositoryList from '../Components/RepositoryList'
+import HomePage from '../Components/HomePage'
+import Navbar from '../Components/Navbar'
+import Footer from '../Components/Footer'
 
 export default function Home(){
     
@@ -9,14 +12,18 @@ export default function Home(){
         <div className={styles.container}>
 
           <Head>
-            <title>Rohan's Github Repositories</title>
+            <title>Rohan Singh</title>
           </Head>
 
           <main className={styles.main}>
 
-            <h1 className={styles.title}>Check out my Github Repositories</h1>
+            <Navbar />
+
+            <h1 className={styles.title}>Rohan Singh: Person formerly known as JocularGlint54</h1>
           
-            <RepositoryList />
+            <HomePage />
+
+            <Footer />
         
           </main>
 
