@@ -2,7 +2,7 @@ import Head from 'next/head'
 import Image from 'next/image'
 import styles from '../styles/Home.module.css'
 import RepositoryList from '../Components/RepositoryList'
-import HomePage from '../Components/Homepage'
+import HomePage from '../Components/HomePage'
 
 export default function Home(){
     
