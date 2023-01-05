@@ -11,13 +11,31 @@ export default function HomePage(){
             <h2>
                 About Me
             </h2>
-            <p>I am an Undergraduate Computer Science and Physics major at Case Western Reserve University. I am currently a sophomore in college and I plan on attending Graduate School after this. I am interested in Quantum Computing, Artificial Intelligence, Machine Learning, Operating System (Linux Superfan) and Low-level programming. If you're interested in working on a project with me, please feel free to reach out.</p>
 
-            <br></br><br></br><br></br><br></br><br></br><br></br>
+            <p>
+                I am an Undergraduate Computer Science and Physics major at Case Western Reserve University. 
+                I am currently a sophomore in college and I plan on attending Graduate School after this. 
+                I am interested in Quantum Computing, Artificial Intelligence, Machine Learning, Operating System 
+                (Linux Superfan) and Low-level programming. If you're interested in working on a project with me, 
+                please feel free to reach out.
+            </p>
+
+            <br></br><br></br><br></br>
 
            
 
+            <Link href="/CSDS338Lab">
+                <h2>Operating Systems Lab</h2>
+                <p>
+                    I am currently a Teaching Assistant for an Operating Systems class at CWRU, if you're interested in learning
+                    some technical Operating Systems skills, check out the Laboratory Component for the class that I designed.  
+                <br></br>
+                </p>
+            </Link>
 
+            <br></br><br></br><br></br>
+
+           
             <h2>
                 Some other Links
             </h2>

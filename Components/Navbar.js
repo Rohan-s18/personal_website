@@ -32,6 +32,10 @@ export default function Navbar(){
 					<span className={styles.navlink}>LinkedIn</span>
 				</Link>
 				
+				<Link href="/CSDS338Lab">
+					<span className={styles.navlink}>Operating Systems Lab</span>
+				</Link>
+
 			</div>
         </>
     )
