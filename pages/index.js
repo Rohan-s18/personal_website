@@ -5,6 +5,7 @@ import RepositoryList from '../Components/RepositoryList'
 import HomePage from '../Components/HomePage'
 import Navbar from '../Components/Navbar'
 import Footer from '../Components/Footer'
+import ProgrammingTools from '../Components/ProgrammingTools'
 
 export default function Home(){
     
@@ -22,6 +23,8 @@ export default function Home(){
             <h1 className={styles.title}>Rohan Singh: Person formerly known as JocularGlint54</h1>
           
             <HomePage />
+
+            <ProgrammingTools />
 
             <Footer />
         

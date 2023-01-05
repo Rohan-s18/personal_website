@@ -7,32 +7,98 @@ import Image from 'next/image'
 import styles from '../styles/Home.module.css'
 import Link from 'next/link';
 
+//  Importing images
+import python from '../public/python.png'
+import c from '../public/c.png'
+import cpp from '../public/cpp.png'
+import csp from '../public/csp2.png'
+import java from '../public/java2.png'
+import linux from '../public/linny.png'
+import bash from '../public/bash.png'
+import unix from '../public/unix.png'
+import gnu from '../public/gnu.png'
+import opencv from '../public/opencv1.png'
+import scikit from '../public/scikit.png'
+import r from '../public/r.png'
+import js from '../public/js1.png'
+import node from '../public/nodejs.png'
+import react from '../public/react.png'
+import mysql from '../public/mysql.png'
+
+
 
 //  Imports
 
+
+//  <div style={{borderRadius: '20px', overflow: 'hidden'}}>
 
 //  Export Function
 export default function ProgrammingTools(){
     return(
 
-        <div>
-            <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-            <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-            <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-            <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Cpp" alt="Cpp" width="40" height="40"/>&nbsp;
-            <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="Csp" alt="Csp" width="40" height="40"/>&nbsp;
-            <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
-            <img src="https://github.com/devicons/devicon/blob/master/icons/unix/unix-original.svg" title="UNIX" alt="UNIX" width="40" height="40"/>&nbsp;
-            <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
-            <img src="https://github.com/devicons/devicon/blob/master/icons/gcc/gcc-original.svg" title="GCC" alt="GCC" width="40" height="40"/>&nbsp;
-            <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
-            <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
-            <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="OpenCV" alt="OpenCV" width="40" height="40"/>&nbsp;
-            <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
-            <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-            <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line.svg" title="Next" alt="Next" width="40" height="40"/>&nbsp;
-            <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node" alt="Node" width="40" height="40"/>&nbsp;     
-            <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+        <div className={styles.para}>
+            <h2>
+                Programming Languages and Tools
+            </h2>
+            <br></br><br></br><br></br>
+
+            <div className={styles.pic_grid}>
+                <div className={styles.card} >
+                    <Image src={python} height={50} width={50} style={{borderRadius : '50%'}}/>
+                </div>
+                <div className={styles.card} >
+                    <Image src={java} height={50} width={50} style={{borderRadius : '50%'}} />
+                </div>
+
+                <div className={styles.card} >
+                    <Image src={c} height={50} width={50} style={{borderRadius : '50%'}} />
+                </div>
+
+                <div className={styles.card} >
+                    <Image src={cpp} height={50} width={50} style={{borderRadius : '50%'}} />
+                </div>
+
+                <div className={styles.card} >
+                    <Image src={csp} height={50} width={50} style={{borderRadius : '50%'}} />
+                </div>
+
+                <div className={styles.card} >
+                    <Image src={linux} height={50} width={50} style={{borderRadius : '50%'}} />
+                </div>
+
+                <div className={styles.card} >
+                    <Image src={bash} height={50} width={50} style={{borderRadius : '50%'}} />
+                </div>
+
+                <div className={styles.card} >
+                    <Image src={gnu} height={50} width={50} style={{borderRadius : '50%'}} />
+                </div>
+
+                <div className={styles.card} >
+                    <Image src={opencv} height={50} width={50} style={{borderRadius : '50%'}} />
+                </div>
+
+                <div className={styles.card} >
+                    <Image src={r} height={50} width={50} style={{borderRadius : '50%'}} />
+                </div>
+
+                <div className={styles.card} >
+                    <Image src={js} height={50} width={50} style={{borderRadius : '50%'}} />
+                </div>
+
+                <div className={styles.card} >
+                    <Image src={node} height={50} width={50} style={{borderRadius : '50%'}} />
+                </div>
+
+                <div className={styles.card}>
+                    <Image src={react} height={50} width={50} style={{borderRadius : '50%'}} />
+                </div>
+
+            </div>
+
+
+            <br></br><br></br><br></br>
+            
         </div>
 
     )
