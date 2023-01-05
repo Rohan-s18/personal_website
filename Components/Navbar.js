@@ -5,7 +5,7 @@ import React from 'react';
 import Image from 'next/image';
 import Link from 'next/link';
 import styles from '../styles/Component.module.css';
-import logo from '../public/IMG_1160.jpg'
+import logo from '../public/logo.png'
 
 
 
