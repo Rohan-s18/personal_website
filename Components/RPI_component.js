@@ -20,25 +20,62 @@ export default function RPI_component(){
         <div className={styles.jocs_home}>
             
             <h2>
-                Lab Description
+                What is RPI?
             </h2>
 
+            <br></br>
+
             <p>
-                Repository for the CSDS 338 (Intro to Operating Systems) Lab for Case Western Reserve University. 
-                The lab component includes modules for the C Programming Language, Linux CLI tutorials and Bash Scripts. 
-                The main objective of this lab is to make students proficient in C and Bash by the end of the semester. 
-                This lab is completely optional and you can pace the modules based on your own preference.
+                RPI or the Rohan Pain Index, is a compilation of the measures of Physical, Emotional and Psychological pain that certain
+                actions, events or objects inflict on humans. I am willing to sacrifice my happiness for the field of science and I hope 
+                that the scientific community acknowledges these sacrifices when they are deliberting for the Nobel Prize for Medicine. 
+                It would also be great, if I get the TIME Person of the Year award for all of this. 
                 <br></br><br></br>
-                These modules (not to be confused with C modules) will have their own README files that will contain 
-                additional details about the indiviadual files within the modules and will have links to external resources 
-                that you might find useful. You can pace these modules based on your own comfort level.
+                These Rankings should not be seen as a bunch of personal opinions, but rather as a universally accepted scale for pain. 
+                If someone disagrees with these rankings, then they are simply wrong. 
+            </p>
+
+            <br></br>
+            <br></br>
+
+
+            <h2>
+                Scoring Criteria
+            </h2>
+
+            <br></br>
+
+            <p>
+                The Rohan Pain Index has 3 different measurement categories for each process/thing : 
+            </p>
+            
+            <ul>
+                <li>
+                    Physical Pain - This measures the Physical pain inflicted by the process/thing. 
+                </li>
+                <li>
+                    Emotional Pain - This measures the Emotional damage sustained during the process/thing. 
+                </li>
+                <li>
+                    Pissed-off Factor - This measures how much the process/thing will piss you off.
+                </li>
+            </ul>
+
+            <br></br>
+            
+            <p>
+                All of the three measurement categories are measured on a scale ranging from 1-to-10. This scale is logarithmic.
+                <br></br>
+                For all of you non-science peeps, a logarithmic scale means that a score of 4 is 10 times as much as a score of 
+                3. 
             </p>
 
 
 
             <br></br>
+            <br></br>
 
-            <h2>RPI Rankings</h2>
+            <h2>RPI Scores</h2>
 
             <br></br>
 
