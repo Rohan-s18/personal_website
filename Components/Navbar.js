@@ -36,6 +36,10 @@ export default function Navbar(){
 					<span className={styles.navlink}>Operating Systems Lab</span>
 				</Link>
 
+				<Link href="/RPI">
+					<span className={styles.navlink}>Rohan Pain Index</span>
+				</Link>
+
 			</div>
         </>
     )
