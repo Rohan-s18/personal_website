@@ -10,7 +10,7 @@ import styles from '../styles/Component.module.css';
 export default function Footer(){
     return (
         <div>
-            <p>© SNUPy Corp.  All rights reserved.</p>
+            <p>© SNUPy Corp. All rights reserved.</p>
         </div>
     )
 }
