@@ -20,6 +20,10 @@
   font-size: large;
 }
 
+.bold {
+  font-weight: bold;
+}
+
 .description {
   display: inherit;
   justify-content: inherit;
@@ -62,6 +66,13 @@
 .pic_grid {
   display: grid;
   grid-template-columns: repeat(13, minmax(5%, auto));
+  width: var(--max-width);
+  max-width: 100%;
+}
+
+.list {
+  display: grid;
+  grid-template-columns: repeat(1, minmax(100%, auto));
   width: var(--max-width);
   max-width: 100%;
 }
