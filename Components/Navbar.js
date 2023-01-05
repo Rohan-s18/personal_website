@@ -5,6 +5,8 @@ import React from 'react';
 import Image from 'next/image';
 import Link from 'next/link';
 import styles from '../styles/Component.module.css';
+import logo from '../public/logo.png'
+
 
 
 export default function Navbar(){
@@ -15,7 +17,7 @@ export default function Navbar(){
 			<div className={styles.navbar}>
 
 				<Link href="/">
-					<Image className={styles.navlogo} src="/IMG_1160.jpg" alt="logo" width={60} height={40} />
+					<Image className={styles.navlogo} src={logo} width={60} height={40} />
 				</Link>
 
 				<Link href="/">
