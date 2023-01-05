@@ -51,13 +51,13 @@ export default function RPI_component(){
             
             <ul>
                 <li>
-                    Physical Pain - This measures the Physical pain inflicted by the process/thing. 
+                    Physical Pain Score - This measures the Physical pain inflicted by the process/thing. 
                 </li>
                 <li>
-                    Emotional Pain - This measures the Emotional damage sustained during the process/thing. 
+                    Emotional Pain Score - This measures the Emotional damage sustained during the process/thing. 
                 </li>
                 <li>
-                    Pissed-off Factor - This measures how much the process/thing will piss you off.
+                    Pissed-off Score - This measures how much the process/thing will piss you off.
                 </li>
             </ul>
 
