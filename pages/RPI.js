@@ -9,7 +9,7 @@ import Image from 'next/image'
 import styles from '../styles/Home.module.css'
 import Navbar from '../Components/Navbar'
 import Footer from '../Components/Footer'
-import RPI_component from '../Components/rpi_component'
+import RPI_component from '../Components/RPI_component'
 
 
 //  Export Function
