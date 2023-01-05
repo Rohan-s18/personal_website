@@ -4,3 +4,8 @@ This repository contains source code for my personal website at https://jocularg
 
 This webste uses the Next JS framework and is hosted by Vercel.  
 
+Features to be added soon:  
+  - **OS Lab**
+  - **Projects**  
+  - **More Content on the Homepage**
+
