@@ -26,12 +26,36 @@ export default function HomePage(){
 
             <Link href="/CSDS338Lab">
                 <h2>Operating Systems Lab</h2>
-                <p>
-                    I am currently a Teaching Assistant for an Operating Systems class at CWRU, if you're interested in learning
-                    some technical Operating Systems skills, check out the Laboratory Component for the class that I designed.  
-                <br></br>
-                </p>
             </Link>
+            
+            <p>
+                I am currently a Teaching Assistant for the Operating Systems class at Case Western Reserve University and 
+                if you're interested in learning some technical Operating Systems skills, check out the Laboratory Component 
+                for the class that I designed. You can learn cool Linux Commands, the Basics of Bash and the OS Related things of 
+                C. 
+                <br></br>
+            </p>
+            
+
+
+            <br></br><br></br><br></br>
+
+
+            <Link href="/RPI">
+                <h2>Rohan Pain Index</h2>
+            </Link>
+            <p>
+                Check out this really cool and awesome side project, where I will rate things on the Physical, Emotional
+                and Psychological pain they inflict on humans. I am willing to risk my physical and mental well being for 
+                Science making me such a class act, please bring me my Nobel Peace Prize.  
+                <br></br>
+                <br></br>
+                For Legal Reasons, I would advise all children to not do any of this stuff. 
+                <br></br>
+            </p>
+            
+
+
 
             <br></br><br></br><br></br>
 
