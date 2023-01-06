@@ -4,6 +4,7 @@ import styles from '../styles/Home.module.css'
 import RepositoryList from '../Components/RepositoryList'
 import Navbar from '../Components/Navbar'
 import Footer from '../Components/Footer'
+import ProgrammingTools from '../Components/ProgrammingTools'
 
 export default function RepoPage(){
     
@@ -25,6 +26,8 @@ export default function RepoPage(){
             <br></br>
             <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Rohan-s18&show_icons=true&theme=great-gatsby" alt="tomondre" /> </p>
             <br></br>
+
+            <ProgrammingTools />
 
             <Footer />
         

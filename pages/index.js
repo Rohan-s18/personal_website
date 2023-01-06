@@ -24,7 +24,6 @@ export default function Home(){
           
             <HomePage />
 
-            <ProgrammingTools />
 
             <Footer />
         
