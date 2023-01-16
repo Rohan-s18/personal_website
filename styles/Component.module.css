@@ -34,7 +34,7 @@
 	align-items: center;
 	justify-content: flex-start;
 	padding: 1rem;
-	background-color: var(--color-background);
+	background-color: black;
 }
 
 .navlink {
