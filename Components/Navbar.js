@@ -17,7 +17,7 @@ export default function Navbar(){
 			<div className={styles.navbar}>
 
 				<Link href="/">
-					<Image className={styles.navlogo} src={logo} width={60} height={40} />
+					<Image className={styles.navlogo} src={logo} width={60} height={40} style={{borderRadius : '50%'}}/>
 				</Link>
 
 				<Link href="/">
