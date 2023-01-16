@@ -51,10 +51,6 @@
 	height: 3rem;
 }
 
-.navlogo {
-    border-radius: 50%;
-}
-
 
 @keyframes spin {
 	from {
