@@ -18,6 +18,12 @@ export default function HomePage(){
                 I am interested in Quantum Computing, Artificial Intelligence, Machine Learning, Operating System 
                 (Linux Superfan) and Low-level programming. If you're interested in working on a project with me, 
                 please feel free to reach out.
+                
+                <br></br><br></br>
+                I am currently undertaking a research project on a recommender system using Tensor Decomposition with the Department of Computer Science and Data Science at Case Western Reserve University.
+
+
+                
             </p>
 
             <br></br><br></br><br></br>
