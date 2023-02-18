@@ -20,7 +20,7 @@ export default function HomePage(){
                 please feel free to reach out.
                 
                 <br></br><br></br>
-                I am currently undertaking a research project on a recommender system using Tensor Decomposition with the Department of Computer Science and Data Science at Case Western Reserve University.
+                I am currently undertaking a research project on a Drug-Drug interaction and Drug-Target interactions using Tensor Decomposition with the Department of Computer Science and Data Science at Case Western Reserve University.
 
 
                 
