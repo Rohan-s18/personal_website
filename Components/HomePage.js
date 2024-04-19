@@ -13,14 +13,13 @@ export default function HomePage(){
             </h2>
 
             <p>
-                I am an Undergraduate Computer Science and Physics major at Case Western Reserve University. 
-                I am currently a sophomore in college and I plan on attending Graduate School after this. 
-                I am interested in Quantum Computing, Artificial Intelligence, Machine Learning, Operating System 
-                (Linux Superfan) and Low-level programming. If you're interested in working on a project with me, 
+                I am a Graduate Student at Columbia University studying Computer Science. I was formerly an Undergraduate Student 
+                at Case Western Reserve University, I was a comp sci major there (big surprise). My reasearch work primarily includes 
+                Machine Learning, more specifically Graph-based ML models and Transformer-based ML models. Other than that I really enjoy 
+                Quantum Mechanics, Numerical Analysis, Low-level Programming and Embedded Systems Design. If you're interested in working on a project with me, 
                 please feel free to reach out.
                 
                 <br></br><br></br>
-                I am currently undertaking a research project on a Drug-Drug interaction and Drug-Target interactions using Tensor Decomposition with the Department of Computer Science and Data Science at Case Western Reserve University.
 
 
                 
@@ -35,7 +34,7 @@ export default function HomePage(){
             </Link>
             
             <p>
-                I am currently a Teaching Assistant for the Operating Systems class at Case Western Reserve University and 
+                I used to be a Teaching Assistant for the Operating Systems class at Case Western Reserve University and 
                 if you're interested in learning some technical Operating Systems skills, check out the Laboratory Component 
                 for the class that I designed. You can learn cool Linux Commands, the Basics of Bash and the OS Related things of 
                 C. 
