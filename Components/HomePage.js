@@ -13,14 +13,17 @@ export default function HomePage(){
             </h2>
 
             <p>
-                I am a Graduate Student at Columbia University studying Computer Science. I was formerly an Undergraduate Student 
-                at Case Western Reserve University, I was a comp sci major there (big surprise). My reasearch work primarily includes 
-                Machine Learning, more specifically Graph-based ML models and Transformer-based ML models. Other than that I really enjoy 
-                Quantum Mechanics, Numerical Analysis, Low-level Programming and Embedded Systems Design. If you're interested in working on a project with me, 
-                please feel free to reach out.
-                
-                <br></br><br></br>
 
+	    	I am a Graduate Computer Science student at Columbia University on the Machine Learning track. I am interested in Quantum Computing, Artificial Intelligence, Machine Learning,
+	    	Operating System and Low-level programming. If you're interested in working on a project with me, please feel free to reach out. I also love watching sports, especially baseball in my
+	    	free time (I am a San Francisco Giants and Cleveland Guardians Fan).
+	    	<br></br><br></br>
+	    	I am a Research Assistant for the AlQuraishi Lab at Columbia University. I work on Protein-Protein Interaction (PPI) models that model physical binding events that occur between protein 
+	    	chains.
+                <br></br><br></br>
+		I graduated from Case Western Reserve University in May 2024 with a BS in Computer Science and minors in Physics and Mathematics. If you're ever interested in knowing what CS, Physics 
+	    	or Math classes you should take here, please feel free to reach out!
+		<br></br><br></br>
 
                 
             </p>
