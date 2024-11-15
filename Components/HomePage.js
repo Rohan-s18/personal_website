@@ -14,15 +14,16 @@ export default function HomePage(){
 
             <p>
 
-	    	I am a Graduate Computer Science student at Columbia University on the Machine Learning track. I am interested in Quantum Computing, Artificial Intelligence, Machine Learning,
-	    	Operating System and Low-level programming. If you're interested in working on a project with me, please feel free to reach out. I also love watching sports, especially baseball in my
-	    	free time (I am a San Francisco Giants and Cleveland Guardians Fan).
+	    	I am a Software Engineer at Google on the ProxyBidding ML team for Google Search Ads in New York. 
+	    	I'm also obtaining a Master’s degree in Computer Science at Columbia University, focusing on Machine Learning. 
+	    	I am a member of the AlQuraishi Lab for Mathematical Genomics at Columbia. I graduated from Case Western Reserve
+	    	University in 2024 with a B.S. in Computer Science.
 	    	<br></br><br></br>
-	    	I am a Research Assistant for the AlQuraishi Lab at Columbia University. I work on Protein-Protein Interaction (PPI) models that model physical binding events that occur between protein 
-	    	chains.
+	    	If you're interested in working on a project with me, please feel free to reach out. I'm currently working on 
+		building a C++ backend for a Python ML library, it's basically going to be a poor man's version of PyTorch/TensorFlow.
                 <br></br><br></br>
-		I graduated from Case Western Reserve University in May 2024 with a BS in Computer Science and minors in Physics and Mathematics. If you're ever interested in knowing what CS, Physics 
-	    	or Math classes you should take here, please feel free to reach out!
+		I enjoy watching sports, especially baseball in my free time (I am a San Francisco Giants and Cleveland Guardians 
+		Fan). I'm trying to get into Hockey this year :)
 		<br></br><br></br>
 
                 
