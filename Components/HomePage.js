@@ -14,7 +14,7 @@ export default function HomePage(){
 
             <p>
 
-	    	I am a Software Engineer at Google on the ProxyBidding ML team for Google Search Ads in New York. 
+	    	I am a Software Engineer at Google on the ProxyBidding ML team for Google Search and Shopping in New York. 
 	    	I'm also obtaining a Master’s degree in Computer Science at Columbia University, focusing on Machine Learning. 
 	    	I am a member of the AlQuraishi Lab for Mathematical Genomics at Columbia. I graduated from Case Western Reserve
 	    	University in 2024 with a B.S. in Computer Science.
